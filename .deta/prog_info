@@ -1,1 +1,0 @@
-{"id":"fad73821-31b9-43a8-9f6d-7243b7b7f3c8","space":7746,"runtime":"python3.7","name":"mlpred","path":"e9hixe","project":"a0w8cydc","account":"144798365827","region":"eu-central-1","deps":["numpy==1.18.0","pandas==0.25.3","fastapi","jinja2","python-multipart"],"envs":null,"public":true,"log_level":"debug","cron":""}
