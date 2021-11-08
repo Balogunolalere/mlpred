@@ -1,0 +1,10 @@
+fastapi
+jinja2
+numpy==1.18.0
+pandas==0.25.3
+python-multipart
+scikit-learn==0.22
+scipy==1.4.1
+uvicorn
+gunicorn
+uvloop
